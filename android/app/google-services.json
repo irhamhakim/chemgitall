@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "655216633887",
+    "project_id": "chemgital-2c462",
+    "storage_bucket": "chemgital-2c462.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:655216633887:android:d033ab685699ca68fa8d2a",
+        "android_client_info": {
+          "package_name": "com.example.chemgitall"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFsTJe1JuZakwAkq5hvVcz-k2p6gIcTvY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
